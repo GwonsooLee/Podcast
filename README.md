@@ -3,6 +3,8 @@
 
 # 진행한 팟캐스트 목록
 * [1회: 데브옵스는 무엇일까?](https://youtu.be/*ZzoP3mnbZc?si=f0MEDe1exe0MNH1t)
+* [2회: 의사결정과 kubedns 1편](https://youtu.be/B7IgpbOfPq8?si=RsZ5IVEXKD62N-w7)
+* [3회: 의도하지 않는 DNS요청](https://youtu.be/cBUgtfXl_U8?si=IKraauqQ-PaxQNba)
 
 # 진행자 정보
 * 악분
